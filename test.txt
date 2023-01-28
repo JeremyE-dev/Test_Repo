@@ -1,0 +1,1 @@
+This is a text file used to test if git and github remote repositories are working properly after password reset
